@@ -1,0 +1,39 @@
+D:\QuanLyBenhNhanDenKham\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.exe
+D:\QuanLyBenhNhanDenKham\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.deps.json
+D:\QuanLyBenhNhanDenKham\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.runtimeconfig.json
+D:\QuanLyBenhNhanDenKham\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.runtimeconfig.dev.json
+D:\QuanLyBenhNhanDenKham\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.dll
+D:\QuanLyBenhNhanDenKham\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.pdb
+D:\QuanLyBenhNhanDenKham\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.csprojAssemblyReference.cache
+D:\QuanLyBenhNhanDenKham\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.AssemblyInfoInputs.cache
+D:\QuanLyBenhNhanDenKham\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.AssemblyInfo.cs
+D:\QuanLyBenhNhanDenKham\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.csproj.CoreCompileInputs.cache
+D:\QuanLyBenhNhanDenKham\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.dll
+D:\QuanLyBenhNhanDenKham\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.pdb
+D:\QuanLyBenhNhanDenKham\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.genruntimeconfig.cache
+D:\HỌC TÔN DẠY LẬP TRÌNH\QuanLyBenhNhanDenKham-main\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.exe
+D:\HỌC TÔN DẠY LẬP TRÌNH\QuanLyBenhNhanDenKham-main\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.deps.json
+D:\HỌC TÔN DẠY LẬP TRÌNH\QuanLyBenhNhanDenKham-main\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.runtimeconfig.json
+D:\HỌC TÔN DẠY LẬP TRÌNH\QuanLyBenhNhanDenKham-main\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.runtimeconfig.dev.json
+D:\HỌC TÔN DẠY LẬP TRÌNH\QuanLyBenhNhanDenKham-main\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.dll
+D:\HỌC TÔN DẠY LẬP TRÌNH\QuanLyBenhNhanDenKham-main\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.pdb
+D:\HỌC TÔN DẠY LẬP TRÌNH\QuanLyBenhNhanDenKham-main\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.csprojAssemblyReference.cache
+D:\HỌC TÔN DẠY LẬP TRÌNH\QuanLyBenhNhanDenKham-main\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.AssemblyInfoInputs.cache
+D:\HỌC TÔN DẠY LẬP TRÌNH\QuanLyBenhNhanDenKham-main\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.AssemblyInfo.cs
+D:\HỌC TÔN DẠY LẬP TRÌNH\QuanLyBenhNhanDenKham-main\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.csproj.CoreCompileInputs.cache
+D:\HỌC TÔN DẠY LẬP TRÌNH\QuanLyBenhNhanDenKham-main\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.dll
+D:\HỌC TÔN DẠY LẬP TRÌNH\QuanLyBenhNhanDenKham-main\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.pdb
+D:\HỌC TÔN DẠY LẬP TRÌNH\QuanLyBenhNhanDenKham-main\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.genruntimeconfig.cache
+D:\ĐA\QuanLyBenhNhanDenKham-main\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.exe
+D:\ĐA\QuanLyBenhNhanDenKham-main\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.deps.json
+D:\ĐA\QuanLyBenhNhanDenKham-main\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.runtimeconfig.json
+D:\ĐA\QuanLyBenhNhanDenKham-main\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.runtimeconfig.dev.json
+D:\ĐA\QuanLyBenhNhanDenKham-main\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.dll
+D:\ĐA\QuanLyBenhNhanDenKham-main\bin\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.pdb
+D:\ĐA\QuanLyBenhNhanDenKham-main\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.csprojAssemblyReference.cache
+D:\ĐA\QuanLyBenhNhanDenKham-main\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.AssemblyInfoInputs.cache
+D:\ĐA\QuanLyBenhNhanDenKham-main\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.AssemblyInfo.cs
+D:\ĐA\QuanLyBenhNhanDenKham-main\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.csproj.CoreCompileInputs.cache
+D:\ĐA\QuanLyBenhNhanDenKham-main\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.dll
+D:\ĐA\QuanLyBenhNhanDenKham-main\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.pdb
+D:\ĐA\QuanLyBenhNhanDenKham-main\obj\Debug\netcoreapp3.1\QuanLyBenhNhanDenKham.genruntimeconfig.cache
